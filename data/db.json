@@ -1,3 +1,132 @@
 {
-  "menu": [{}]
+  "foods": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "پیتزا 1 شناسه",
+      "image": "/images/p1.jpg",
+      "price": 126000,
+      "description": "توضیحات 1 شناسه"
+    },
+    {
+      "id": 2,
+      "category_id": 3,
+      "name": "سالاد 2 شناسه",
+      "image": "/images/s1.jpg",
+      "price": 59000,
+      "description": "توضیحات 2 شناسه"
+    },
+    {
+      "id": 3,
+      "category_id": 2,
+      "name": "برگر 3 شناسه",
+      "image": "/images/b1.jpg",
+      "price": 219000,
+      "description": "توضیحات 3 شناسه"
+    },
+    {
+      "id": 4,
+      "category_id": 3,
+      "name": "سالاد 4 شناسه",
+      "image": "/images/s2.jpg",
+      "price": 68000,
+      "description": "توضیحات 4 شناسه"
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "name": "برگر 5 شناسه",
+      "image": "/images/b2.jpg",
+      "price": 155000,
+      "description": "توضیحات 5 شناسه"
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "name": "پیتزا 6 شناسه",
+      "image": "/images/p2.jpg",
+      "price": 358000,
+      "description": "توضیحات 6 شناسه"
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "name": "پیتزا 7 شناسه",
+      "image": "/images/p3.jpg",
+      "price": 299000,
+      "description": "توضیحات 7 شناسه"
+    },
+    {
+      "id": 8,
+      "category_id": 3,
+      "name": "سالاد 8 شناسه",
+      "image": "/images/s3.jpg",
+      "price": 104000,
+      "description": "توضیحات 8 شناسه"
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "name": "سالاد 9 شناسه",
+      "image": "/images/s4.jpg",
+      "price": 166000,
+      "description": "توضیحات 9 شناسه"
+    },
+    {
+      "id": 10,
+      "category_id": 2,
+      "name": "برگر 10 شناسه",
+      "image": "/images/b3.jpg",
+      "price": 442000,
+      "description": "توضیحات 10 شناسه"
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "name": "برگر 11 شناسه",
+      "image": "/images/b4.jpg",
+      "price": 98000,
+      "description": "توضیحات 11 شناسه"
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "name": "پیتزا 12 شناسه",
+      "image": "/images/p4.jpg",
+      "price": 477000,
+      "description": "توضیحات 12 شناسه"
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "name": "پیتزا 13 شناسه",
+      "image": "/images/p5.jpg",
+      "price": 340000,
+      "description": "توضیحات 13 شناسه"
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "name": "پیتزا 14 شناسه",
+      "image": "/images/p6.jpg",
+      "price": 170000,
+      "description": "توضیحات 14 شناسه"
+    },
+    {
+      "id": 15,
+      "category_id": 2,
+      "name": "برگر 15 شناسه",
+      "image": "/images/b5.jpg",
+      "price": 246000,
+      "description": "توضیحات 15 شناسه"
+    },
+    {
+      "id": 16,
+      "category_id": 3,
+      "name": "سالاد 16 شناسه",
+      "image": "/images/s5.jpg",
+      "price": 91000,
+      "description": "توضیحات 16 شناسه"
+    }
+  ]
 }
