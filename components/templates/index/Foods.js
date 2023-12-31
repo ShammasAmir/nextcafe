@@ -19,7 +19,7 @@ function Foods() {
 
         <div className="filters_content">
           <div className="row grid">
-            {db.foods.slice(0, 9).map((food) => (
+            {db.foods.slice(0, 6).map((food) => (
               <Food key={food.id} {...food} />
             ))}
           </div>
