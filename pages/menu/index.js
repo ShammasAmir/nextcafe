@@ -1,7 +1,12 @@
+import Menu from "@/components/templates/menu/Menu";
 import React from "react";
 
 function MenuPage() {
-  return <h1>MENU-PAGE</h1>;
+  return (
+    <>
+      <Menu />
+    </>
+  );
 }
 
 export default MenuPage;
