@@ -17,7 +17,7 @@ function Food({ id, category_id, name, image, price, description }) {
                 {price.toLocaleString()}
                 <span> تومان</span>
               </h6>
-              <Link href="">
+              <Link href={`/menu/${id}`}>
                 <i className="bi bi-cart-fill text-white fs-5"></i>
               </Link>
             </div>
